@@ -1,5 +1,5 @@
 # AlertBox
-A simply small program that allows a small box to be always on top.
+A SSPP (simply small Python program) that allows a small box to be always on top.
 
 When clicked gives a pop-up message and change colour.
 
