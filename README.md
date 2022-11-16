@@ -9,3 +9,6 @@ Ideal for training of new personnel in high intensity input enviroments where co
 
 
 ![Alt text](https://github.com/MaurizioCarrara/AlertBox/blob/main/AlertBox.gif)
+
+
+**ATTENTION:** this repo is just for this readme
