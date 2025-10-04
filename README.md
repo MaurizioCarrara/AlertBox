@@ -5,7 +5,7 @@ When triggered, the box changes color and displays a pop-up message, ensuring th
 
 ---
 
-## 🎯 Use Case  
+## Use Case  
 Originally developed for an **airport ground coordination office**, AlertBox was designed to support situations where communication between operational staff and the control tower is essential.  
 The tool provides a **clear, immediate memo** to signal stand changes or operational updates in high-intensity environments.  
 
@@ -17,7 +17,7 @@ This makes it particularly suitable for:
 
 ---
 
-## ⚙️ Features  
+## Features  
 - **Always-on-top window** ensuring visibility over other applications.  
 - **Color-coded notifications** for instant visual recognition.  
 - **Interactive alerts** with customizable pop-up messages.  
@@ -25,14 +25,14 @@ This makes it particularly suitable for:
 
 ---
 
-## 🚀 Benefits  
+## Benefits  
 - Enhances **situational awareness** in critical environments.  
 - Reduces the risk of **missed communications**.  
 - Provides an easy-to-use tool for both **operational staff** and **training contexts**.  
 
 ---
 
-## 🛠️ Technical Overview  
+## Technical Overview  
 - Built with **Python** and simple GUI libraries.  
 - Designed for **ease of deployment** with minimal configuration.  
 - Modular structure allows for adaptation to other operational use cases beyond aviation.  
